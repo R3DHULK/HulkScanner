@@ -1,4 +1,8 @@
 #!/bin/bash
+echo "
+    █░█ █░█ █░░ █▄▀ █▀ █▀▀ ▄▀█ █▄░█ █▄░█ █▀▀ █▀█
+    █▀█ █▄█ █▄▄ █░█ ▄█ █▄▄ █▀█ █░▀█ █░▀█ ██▄ █▀▄
+            Author : Sumalya Chatterjee"
 if ["$1" == "" ]
 then
   echo "Usage: ./hulkscanner.sh [IP]"
