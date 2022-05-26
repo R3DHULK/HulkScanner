@@ -1,3 +1,8 @@
+# Simple Vulnerable Port Scanner For Educational Purpose
+# Author : Sumalya Chatterjee
+# Installation
+git clone https://github.com/R3DHULK/HulkScanner.git
+# HULKMAP is for another author with another purpose
 HULKMAP is an open-source online local vulnerability scanner project. It consists of online local vulnerability scanning programs for Windows and Linux operating systems. These scripts can be used for defensive and offensive purposes. It is possible to make vulnerability assessments using these scripts. Also, they can be used for privilege escalation by pentesters/red teamers.
 
 HULKMAP can be used to, scan vulnerabilities on the localhost, see related exploits, and download them. Scripts basically, scan the localhost to gather installed software information and ask vulmon.com API if there are any vulnerabilities and exploits related to installed software. If vulnerabilities exist, HULKMAP gives CVE ID, risk score, vulnerability's detail link, if exists related exploit ids, and exploit titles. Exploits can be downloaded with HULKMAP also.
